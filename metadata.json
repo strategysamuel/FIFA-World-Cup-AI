@@ -1,0 +1,6 @@
+{
+  "name": "FIFA World Cup Operations Center",
+  "description": "Real-time high-density stadium operations hub with AI-powered insights, dynamic crowd heatmap, and transit logs for Match Day operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
